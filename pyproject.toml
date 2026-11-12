@@ -1,7 +1,7 @@
 [project]
 name = "glab-927-4-1"
 version = "0.1.0"
-description = "Add your description here"
+description = "Sentiment analysis tool using Python and TextBlob to evaluate polarity and subjectivity in customer feedback."
 readme = "README.md"
 authors = [
     { name = "MichaelKearns568", email = "mkaipromptengineeringps@gmail.com" }
